@@ -1,0 +1,24 @@
+{
+  "name": "practice-restful-node-api-basic",
+  "version": "1.0.0",
+  "description": "Basic Restful Node API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielDCelery/practice-restful-node-api-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielDCelery/practice-restful-node-api-basic/issues"
+  },
+  "homepage": "https://github.com/GabrielDCelery/practice-restful-node-api-basic#readme",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7"
+  }
+}
